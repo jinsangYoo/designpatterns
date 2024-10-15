@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AbstractFactoryPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AbstractFactoryPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AbstractFactoryPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AbstractFactoryPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterPattern.iml" filepath="$PROJECT_DIR$/AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdapterPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AdapterPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdapterPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AdapterPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterPattern2.iml" filepath="$PROJECT_DIR$/AdapterPattern2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdapterPattern2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AdapterPattern2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdapterPattern2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AdapterPattern2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BridgePattern.iml" filepath="$PROJECT_DIR$/BridgePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BridgePattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BridgePattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BridgePattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BridgePattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BuilderPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BuilderPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BuilderPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BuilderPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibilityPattern.iml" filepath="$PROJECT_DIR$/ChainOfResponsibilityPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChainOfResponsibilityPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ChainOfResponsibilityPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChainOfResponsibilityPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ChainOfResponsibilityPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositePattern.iml" filepath="$PROJECT_DIR$/CompositePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CompositePattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CompositePattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CompositePattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CompositePattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadePattern.iml" filepath="$PROJECT_DIR$/FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FacadePattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FacadePattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FacadePattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FacadePattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FactoryMethod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FactoryMethod.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FactoryMethod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FactoryMethod.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyweightPattern.iml" filepath="$PROJECT_DIR$/FlyweightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlyweightPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FlyweightPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlyweightPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FlyweightPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IteratorPattern.iml" filepath="$PROJECT_DIR$/IteratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IteratorPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/IteratorPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IteratorPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/IteratorPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediatorPattern.iml" filepath="$PROJECT_DIR$/MediatorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MediatorPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MediatorPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MediatorPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MediatorPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MementoPattern.iml" filepath="$PROJECT_DIR$/MementoPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MementoPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/MementoPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MementoPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/MementoPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypePattern.iml" filepath="$PROJECT_DIR$/PrototypePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrototypePattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PrototypePattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrototypePattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/PrototypePattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPattern.iml" filepath="$PROJECT_DIR$/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SingletonPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SingletonPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SingletonPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SingletonPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatePattern.iml" filepath="$PROJECT_DIR$/StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StatePattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StatePattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StatePattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StatePattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StrategyPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StrategyPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StrategyPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StrategyPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod.iml" filepath="$PROJECT_DIR$/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemplateMethod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TemplateMethod.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TemplateMethod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TemplateMethod.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VisitorPattern.iml" filepath="$PROJECT_DIR$/VisitorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VisitorPattern.main.iml" filepath="$PROJECT_DIR$/.idea/modules/VisitorPattern.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VisitorPattern.test.iml" filepath="$PROJECT_DIR$/.idea/modules/VisitorPattern.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpatterns.iml" filepath="$PROJECT_DIR$/designpatterns.iml" />
+    </modules>
+  </component>
+</project>

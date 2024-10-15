@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="AbstractFactoryPattern" target="11" />
+      <module name="AbstractFactoryPattern.main" target="11" />
+      <module name="AbstractFactoryPattern.test" target="11" />
+      <module name="AdapterPattern" target="11" />
+      <module name="AdapterPattern.main" target="11" />
+      <module name="AdapterPattern.test" target="11" />
+      <module name="AdapterPattern2" target="11" />
+      <module name="AdapterPattern2.main" target="11" />
+      <module name="AdapterPattern2.test" target="11" />
+      <module name="BridgePattern" target="11" />
+      <module name="BridgePattern.main" target="11" />
+      <module name="BridgePattern.test" target="11" />
+      <module name="BuilderPattern" target="11" />
+      <module name="BuilderPattern.main" target="11" />
+      <module name="BuilderPattern.test" target="11" />
+      <module name="ChainOfResponsibilityPattern" target="11" />
+      <module name="ChainOfResponsibilityPattern.main" target="11" />
+      <module name="ChainOfResponsibilityPattern.test" target="11" />
+      <module name="CompositePattern" target="11" />
+      <module name="CompositePattern.main" target="11" />
+      <module name="CompositePattern.test" target="11" />
+      <module name="DecoratorPattern" target="11" />
+      <module name="DecoratorPattern.main" target="11" />
+      <module name="DecoratorPattern.test" target="11" />
+      <module name="FacadePattern" target="11" />
+      <module name="FacadePattern.main" target="11" />
+      <module name="FacadePattern.test" target="11" />
+      <module name="FactoryMethod" target="11" />
+      <module name="FactoryMethod.main" target="11" />
+      <module name="FactoryMethod.test" target="11" />
+      <module name="FlyweightPattern" target="11" />
+      <module name="FlyweightPattern.main" target="11" />
+      <module name="FlyweightPattern.test" target="11" />
+      <module name="IteratorPattern" target="11" />
+      <module name="IteratorPattern.main" target="11" />
+      <module name="IteratorPattern.test" target="11" />
+      <module name="MediatorPattern" target="11" />
+      <module name="MediatorPattern.main" target="11" />
+      <module name="MediatorPattern.test" target="11" />
+      <module name="MementoPattern" target="11" />
+      <module name="MementoPattern.main" target="11" />
+      <module name="MementoPattern.test" target="11" />
+      <module name="ObserverPattern" target="11" />
+      <module name="ObserverPattern.main" target="11" />
+      <module name="ObserverPattern.test" target="11" />
+      <module name="PrototypePattern" target="11" />
+      <module name="PrototypePattern.main" target="11" />
+      <module name="PrototypePattern.test" target="11" />
+      <module name="ProxyPattern" target="11" />
+      <module name="ProxyPattern.main" target="11" />
+      <module name="ProxyPattern.test" target="11" />
+      <module name="SingletonPattern" target="11" />
+      <module name="SingletonPattern.main" target="11" />
+      <module name="SingletonPattern.test" target="11" />
+      <module name="StatePattern" target="11" />
+      <module name="StatePattern.main" target="11" />
+      <module name="StatePattern.test" target="11" />
+      <module name="StrategyPattern" target="11" />
+      <module name="StrategyPattern.main" target="11" />
+      <module name="StrategyPattern.test" target="11" />
+      <module name="TemplateMethod" target="11" />
+      <module name="TemplateMethod.main" target="11" />
+      <module name="TemplateMethod.test" target="11" />
+      <module name="VisitorPattern" target="11" />
+      <module name="VisitorPattern.main" target="11" />
+      <module name="VisitorPattern.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
