@@ -38,3 +38,7 @@
 * [Java 언어로 배우는 디자인 패턴 입문](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=2104376)
     * 알기 쉽게 설명한 GoF 디자인 패턴
     * 유키 히로시(YUKI HIROSHI)
+
+* 특이 사항
+  * 중간 Android 예제 포함되어 있음
+  * Command 패턴 빠져있음
